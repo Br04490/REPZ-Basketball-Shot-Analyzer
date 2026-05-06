@@ -77,7 +77,7 @@ Input basketball image or video
 
 The final presentation slides can be found here:
 
-[View Presentation Slides](https://docs.google.com/presentation/d/18v9JWeLUIGF_fTqI7n3dsPjzXvB1b_uh_JoQw0lo/edit?usp=sharing)
+[View Presentation Slides] https://docs.google.com/presentation/d/1o7v9jWevLUIGF_eFtqI7n3dsPjzXvB1b_uh_JoQwoWo/edit?usp=sharing 
 
 ---
 
